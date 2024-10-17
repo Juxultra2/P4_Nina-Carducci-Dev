@@ -90,9 +90,6 @@ body {
 	font-size: 14px;
 }
 
-#gallery {
-	/*	min-height: 100vh; */
-}
 .title{
 	text-align: center;
 	padding-block: 2em;
@@ -108,6 +105,11 @@ body {
 .nav-pills .nav-link {
 	color: #000
 }
+
+.nav-link:hover {
+	cursor: pointer;
+}
+
 .item-column {
 	position: relative;
 	margin-bottom: 0 !important;
