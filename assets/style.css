@@ -156,7 +156,9 @@ body {
 	font-weight: 800;
 	font-size: 22px;
 }
-
+.quote__text {
+	font-size: 2.5rem;
+}
 #services {
 	margin: auto;
 	background-color: #A8D5D8 ;
