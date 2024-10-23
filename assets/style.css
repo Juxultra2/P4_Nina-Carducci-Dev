@@ -1,3 +1,9 @@
+@font-face {
+	font-family: 'YourFont';
+	src: url('path/to/your/font.woff2') format('woff2');
+	font-display: swap;
+}
+
 body {
 	max-width: 1920px;
 	margin: auto;
